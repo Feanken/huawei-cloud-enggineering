@@ -12,7 +12,7 @@ This lab demonstrates how to create and configure an Elastic Cloud Server (ECS) 
 
 ## 2. Architecture
 
-![ECS Architecture](images/architecture.png)
+![ECS Architecture](ECS_ARCHITECTURE.PNG)
 
 **Architecture Description:**
 
